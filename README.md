@@ -2,9 +2,9 @@ Projeto: Questionário em PHP
 
 Tecnologias:
 
-HTML
-CSS
-PHP
+- HTML
+- CSS
+- PHP
 
 Funcionalidades:
 
