@@ -53,7 +53,7 @@ if ($_SERVER["REQUEST_METHOD"] === 'POST') {
 </head>
 <body>
     <h1>Questionário:</h1><br/><br/>
-    <form action="questionario.php" method="POST">
+    <form action="index.php" method="POST">
     <div id="pergunta1">
         <p><center>Marque a resposta com a pergunta correspondente</center></p><br/><br/>
         <fieldset>
